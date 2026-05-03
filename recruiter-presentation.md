@@ -19,7 +19,7 @@ This app automates file loading, group selection, statistical comparison, and re
 ## Results snapshot
 ![Results table showing top differentially expressed genes](screenshots/Results.png)
 
-![Volcano-style plot comparing BRCA and COAD gene expression](screenshots/volcano graph.png)
+![Volcano-style plot comparing BRCA and COAD gene expression](screenshots/volcano_graph.png)
 
 
 ## What I learned
