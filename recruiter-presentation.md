@@ -17,9 +17,10 @@ This app automates file loading, group selection, statistical comparison, and re
 - Downloadable outputs.
 
 ## Results snapshot
-![](/Volumes/PHILIPS UFD/Projects/Gene Expression Agent/Results.png)
+![Results table showing top differentially expressed genes](screenshots/Results.png)
 
-![](/Volumes/PHILIPS UFD/Projects/Gene Expression Agent/volcano graph.png)
+![Volcano-style plot comparing BRCA and COAD gene expression](screenshots/volcano_graph.png)
+
 
 ## What I learned
 - Handling large CSVs in Streamlit.
